@@ -2,6 +2,11 @@ app/
 /config/config.json
 /cache
 /vendor
+templates_c/
+
+# change this as applicable, if your public directory is within the
+# project repository
+public/
 
 # =========================
 

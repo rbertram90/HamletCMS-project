@@ -236,12 +236,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/rbertram90/HamletCMS.git",
-                "reference": "1c6481999dad3f373a8f4433d49dc220474a19ed"
+                "reference": "cb17de1b69cdcf81079d4648b420e98e4ec82aeb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rbertram90/HamletCMS/zipball/1c6481999dad3f373a8f4433d49dc220474a19ed",
-                "reference": "1c6481999dad3f373a8f4433d49dc220474a19ed",
+                "url": "https://api.github.com/repos/rbertram90/HamletCMS/zipball/cb17de1b69cdcf81079d4648b420e98e4ec82aeb",
+                "reference": "cb17de1b69cdcf81079d4648b420e98e4ec82aeb",
                 "shasum": ""
             },
             "require": {
@@ -265,7 +265,7 @@
                 "source": "https://github.com/rbertram90/HamletCMS/tree/composer",
                 "issues": "https://github.com/rbertram90/HamletCMS/issues"
             },
-            "time": "2022-02-26T14:26:44+00:00"
+            "time": "2022-02-26T14:54:44+00:00"
         },
         {
             "name": "smarty/smarty",
