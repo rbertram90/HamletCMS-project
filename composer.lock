@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e98569590b4f24c6cfaf2c2069d6503c",
+    "content-hash": "5417eaecfed3884b9ee488fd78a62dd2",
     "packages": [
         {
             "name": "athens/csrf",
@@ -232,16 +232,16 @@
         },
         {
             "name": "rbwebdesigns/hamlet-cms",
-            "version": "dev-composer",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rbertram90/HamletCMS.git",
-                "reference": "cb17de1b69cdcf81079d4648b420e98e4ec82aeb"
+                "reference": "af4529f1ed2efee8c8dd8c3df80ffdd4c39d77f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rbertram90/HamletCMS/zipball/cb17de1b69cdcf81079d4648b420e98e4ec82aeb",
-                "reference": "cb17de1b69cdcf81079d4648b420e98e4ec82aeb",
+                "url": "https://api.github.com/repos/rbertram90/HamletCMS/zipball/af4529f1ed2efee8c8dd8c3df80ffdd4c39d77f6",
+                "reference": "af4529f1ed2efee8c8dd8c3df80ffdd4c39d77f6",
                 "shasum": ""
             },
             "require": {
@@ -262,10 +262,10 @@
             },
             "description": "PHP Blog content management system, using a modular MVC framework with Smarty templates",
             "support": {
-                "source": "https://github.com/rbertram90/HamletCMS/tree/composer",
+                "source": "https://github.com/rbertram90/HamletCMS/tree/1.0.1",
                 "issues": "https://github.com/rbertram90/HamletCMS/issues"
             },
-            "time": "2022-02-26T14:54:44+00:00"
+            "time": "2022-02-26T15:17:29+00:00"
         },
         {
             "name": "smarty/smarty",
@@ -337,9 +337,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "rbwebdesigns/hamlet-cms": 20
-    },
+    "stability-flags": [],
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": [],

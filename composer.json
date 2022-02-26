@@ -20,7 +20,7 @@
     "prefer-stable": true,
     "require": {
         "mnsami/composer-custom-directory-installer": "^2.0",
-        "rbwebdesigns/hamlet-cms": "dev-composer"
+        "rbwebdesigns/hamlet-cms": "^1.0"
     },
     "extra": {
         "installer-types": ["hamlet-cms-module", "hamlet-cms-template"],
