@@ -20,13 +20,14 @@
     "prefer-stable": true,
     "require": {
         "mnsami/composer-custom-directory-installer": "^2.0",
-        "rbwebdesigns/hamlet-cms": "^1.0"
+        "rbwebdesigns/hamlet-cms": "^1.0",
+        "rbwebdesigns/hamlet-cms-installer": "dev-master"
     },
     "extra": {
         "installer-types": ["hamlet-cms-module", "hamlet-cms-template"],
         "installer-paths": {
-            "modules/addon/{$name}/": ["type:hamlet-cms-module"],
-            "templates/addon/{$name}": ["type:hamlet-cms-template"],
+            "app/modules/addon/{$name}/": ["type:hamlet-cms-module"],
+            "app/templates/addon/{$name}": ["type:hamlet-cms-template"],
             "./app/": ["rbwebdesigns/hamlet-cms"]
         }
     },
