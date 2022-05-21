@@ -4,6 +4,14 @@ app/
 /vendor
 templates_c/
 
+# =========================
+# Custom modules/templates
+# =========================
+
+addons/modules/*
+addons/templates/*
+
+
 # change this as applicable, if your public directory is within the
 # project repository
 public/

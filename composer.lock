@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "93df78fb25621134b1fde717caaba6a0",
+    "content-hash": "0c783acacb64e75552485aa5c4860330",
     "packages": [
         {
             "name": "athens/csrf",
